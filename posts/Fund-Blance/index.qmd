@@ -1,0 +1,16 @@
+---
+title: "What's a Fund Balance"
+author: "Tanner Delpier"
+date: "2023-04-12"
+date-modified: "2023-04-12"
+categories:
+  - EdFin
+draft: true
+freeze: true
+---
+
+This is a new blog post with some code
+
+```{r}
+1 + 1
+```

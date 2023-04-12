@@ -1,0 +1,14 @@
+{
+  "hash": "fa5a44b15962f53287d9dea853019e90",
+  "result": {
+    "markdown": "---\ntitle: \"What's a Fund Balance\"\nauthor: \"Tanner Delpier\"\ndate: \"2023-04-12\"\ndate-modified: \"2023-04-12\"\ncategories:\n  - EdFin\ndraft: true\nfreeze: true\n---\n\n\nThis is a new blog post with some code\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
