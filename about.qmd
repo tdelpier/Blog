@@ -2,18 +2,11 @@
 title: "About"
 image: profile.jpg
 about:
-  template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
+  template: broadside
 ---
 
-About this blog
+I'm the Labor Economist for the [Michigan Education Association](https://mea.org/) where I conducts research on Michigan education finance as well as providing policy analysis and support for association bargaining units. Before joining MEA, I earned my PhD in [Education Policy from Michigan State University](https://education.msu.edu/ead/ed-policy-phd/) where I worked with Dr. David Arsen. 
+
+## subtitle
+
+I work on technical stuff

@@ -1,18 +1,25 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Tanner Delpier"
+  site-url: www.tannerdelpier.com 
+  description: "A Blog Covering Michigan Education Policy"
   navbar:
     right:
       - about.qmd
+      - icon: rss
+        href: index.xml
       - icon: github
         href: https://github.com/tdelpier
       - icon: twitter
         href: https://twitter.com/tdelpier
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tanner-delpier-aa8769a6/
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
 
 editor: visual
